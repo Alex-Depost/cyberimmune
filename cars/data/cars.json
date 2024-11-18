@@ -1,0 +1,21 @@
+[
+    {
+        "car_model": "LadaKalina",
+        "license_plate": "А111AB77",
+        "has_air_conditioner": true,
+        "has_heater": true,
+        "has_navigator": true},
+    {
+        "car_model": "Rollce-Royce Phantom",
+        "license_plate": "А111AA77",
+        "has_air_conditioner": true,
+        "has_heater": true,
+        "has_navigator": true},
+    {
+        "car_model": "Toyota Prius",
+        "license_plate": "А123ВС77",
+        "has_air_conditioner": true,
+        "has_heater": true,
+        "has_navigator": true
+    }
+]

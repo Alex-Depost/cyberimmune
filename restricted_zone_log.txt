@@ -1,0 +1,13 @@
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver А123ВС77 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver А123ВС77 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver А123ВС77 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver А123ВС77 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver А123ВС77 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver А123ВС77 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
+Driver driver_123 entered restricted zone restricted_zone_1. Location: (50.455, 30.525).
